@@ -1,5 +1,5 @@
 #!/bin/bash
-#B1
+#B12
 echo "this is script for github "
 num=$(($firstnumber + $secondnumber))
 #num=$firstnumber+$secondnumber
