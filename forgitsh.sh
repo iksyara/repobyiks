@@ -7,3 +7,4 @@ num=$(($firstnumber + $secondnumber))
 #echo "$num (($firstnumber + $secondnumber))
 echo "$num"
 echo "finish"
+test2
